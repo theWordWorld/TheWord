@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Uncategorized &#8211; The Word</title>
+	<atom:link href="https://thewordworld.github.io/TheWord/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thewordworld.github.io/TheWord</link>
+	<description>The Word for all the World</description>
+	<lastBuildDate>Mon, 04 Feb 2019 04:23:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+
+<image>
+	<url>https://thewordworld.github.io/TheWord/wp-content/uploads/2019/01/cropped-TheWord-Icon-32x32.png</url>
+	<title>Uncategorized &#8211; The Word</title>
+	<link>https://thewordworld.github.io/TheWord</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>True Worship</title>
+		<link>https://thewordworld.github.io/TheWord/2019/01/22/true-worship/</link>
+		<comments>https://thewordworld.github.io/TheWord/2019/01/22/true-worship/#respond</comments>
+		<pubDate>Tue, 22 Jan 2019 17:12:41 +0000</pubDate>
+		<dc:creator><![CDATA[nzimmer]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://thewordworld.github.io/TheWord/?p=86</guid>
+		<description><![CDATA[Worship is an action that many people do not understand the true power of. Jesus spoke to the women at the well in John 4. He told her that the time is coming and now is when]]></description>
+				<content:encoded><![CDATA[
+<p>Worship is an action that many people do not understand the true power of.  Jesus spoke to the women at the well in John 4.  He told her that the time is coming and now is when </p>
+]]></content:encoded>
+			<wfw:commentRss>https://thewordworld.github.io/TheWord/2019/01/22/true-worship/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
