@@ -10,8 +10,8 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 >
 
 <channel>
-	<title>Uncategorized &#8211; The Word</title>
-	<atom:link href="https://thewordworld.github.io/TheWord/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>Compassion &#8211; The Word</title>
+	<atom:link href="https://thewordworld.github.io/TheWord/tag/compassion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thewordworld.github.io/TheWord</link>
 	<description>The Word for all the World</description>
 	<lastBuildDate>Wed, 08 Jan 2020 15:00:41 +0000</lastBuildDate>
@@ -22,7 +22,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 
 <image>
 	<url>https://thewordworld.github.io/TheWord/wp-content/uploads/2019/01/cropped-TheWord-Icon-32x32.png</url>
-	<title>Uncategorized &#8211; The Word</title>
+	<title>Compassion &#8211; The Word</title>
 	<link>https://thewordworld.github.io/TheWord</link>
 	<width>32</width>
 	<height>32</height>
@@ -130,22 +130,6 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <p><br></p>
 ]]></content:encoded>
 			<wfw:commentRss>https://thewordworld.github.io/TheWord/2020/01/07/the-compassion-of-jesus/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>True Worship</title>
-		<link>https://thewordworld.github.io/TheWord/2019/01/22/true-worship/</link>
-		<comments>https://thewordworld.github.io/TheWord/2019/01/22/true-worship/#respond</comments>
-		<pubDate>Tue, 22 Jan 2019 17:12:41 +0000</pubDate>
-		<dc:creator><![CDATA[nzimmer]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">https://thewordworld.github.io/TheWord/?p=86</guid>
-		<description><![CDATA[Worship is an action that many people do not understand the true power of. Jesus spoke to the women at the well in John 4. He told her that the time is coming and now is when]]></description>
-				<content:encoded><![CDATA[
-<p>Worship is an action that many people do not understand the true power of.  Jesus spoke to the women at the well in John 4.  He told her that the time is coming and now is when </p>
-]]></content:encoded>
-			<wfw:commentRss>https://thewordworld.github.io/TheWord/2019/01/22/true-worship/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
